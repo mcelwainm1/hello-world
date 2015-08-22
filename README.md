@@ -1,2 +1,2 @@
 # hello-world
-Setting up a repository
+Learning how to make branches
